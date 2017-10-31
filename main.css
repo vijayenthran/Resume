@@ -1,0 +1,29 @@
+#Resume-Main {
+  background-color: #0b213a;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 30px;
+  color: #c9d4d6;
+}
+.Name {
+  text-align: center;
+  border-bottom: 1px solid #ffe2c6; 
+  margin-bottom:1px;
+}
+.ExperienceName{
+  border-bottom: 1px solid #ffe2c6; 
+  margin-bottom:1px;
+}
+.PersonalInfoName{
+  border-bottom: 1px solid #ffe2c6; 
+  margin-bottom:20px;
+}
+table, th, td {
+  border: 1px solid #ffefe0;
+}
+table {
+  border-collapse: collapse;
+}
+a {
+  color: yellow;
+}
